@@ -1,0 +1,24 @@
+{
+  "name": "graphql-elasticsearch",
+  "version": "1.0.0",
+  "description": "API creation using GRAPHQL WITH ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathishnuk176/graphql-elasticsearch.git"
+  },
+  "keywords": [
+    "GRAPHQL",
+    "ES",
+    "API"
+  ],
+  "author": "saravyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathishnuk176/graphql-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/sathishnuk176/graphql-elasticsearch#readme"
+}
